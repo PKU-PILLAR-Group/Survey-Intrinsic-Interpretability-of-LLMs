@@ -13,6 +13,14 @@
 
 ---
 
+
+
+## 🗓️ Release
+- [2026/4/7] 🎉 This paper is accepted by ACL 2026 main conference.
+- [2026/1/16] 🎉 We launch the [paper list]([https://revive234.github.io/IMAGHarmony.github.io/](https://github.com/gao-1/Towards-Intrinsic-Interpretability-of-Large-Language-Models)) of this survey.
+---
+
+
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
