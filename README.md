@@ -7,7 +7,7 @@
 
 > **The first systematic review of intrinsic interpretability for LLMs, categorizing approaches into five design paradigms: functional transparency, concept alignment, representational decomposability, explicit modularization, and latent sparsity induction.**
 
-[**[📄 Read the Paper]**](paper.pdf)
+[**[📄 Read the Paper]**](https://arxiv.org/pdf/2604.16042)
 
 </div>
 
