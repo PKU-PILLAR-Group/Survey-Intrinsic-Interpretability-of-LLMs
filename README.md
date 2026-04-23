@@ -7,11 +7,19 @@
 
 > **The first systematic review of intrinsic interpretability for LLMs, categorizing approaches into five design paradigms: functional transparency, concept alignment, representational decomposability, explicit modularization, and latent sparsity induction.**
 
-[**[📄 Read the Paper]**](paper.pdf)
+[**[📄 Read the Paper]**](https://arxiv.org/pdf/2604.16042)
 
 </div>
 
 ---
+
+
+
+## 🗓️ Release
+- [2026/4/7] 🎉 This paper is accepted by ACL 2026 main conference.
+- [2026/1/16] 🎉 We launch the [paper list](https://github.com/gao-1/Towards-Intrinsic-Interpretability-of-Large-Language-Models) of this survey.
+---
+
 
 ## 📖 Table of Contents
 
@@ -136,11 +144,12 @@ To help navigate the paper list, we organize studies around the **Five Core Desi
 Please cite our paper if you find this survey useful for your research.
 
 ```bibtex
-@article{gao2026towards,
-  author={Gao, Yutong and Meng, Qinglin and Zhou, Yuan and Pan, Liangming},
-  title={{Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures}},
-  year={2026},
-  month={Jan},
-  note= {Last modified: 07 Jan 2026. License: CC BY 4.0.},
-  publisher={Preprint}
+@misc{gao2026intrinsicinterpretabilitylargelanguage,
+      title={Towards Intrinsic Interpretability of Large Language Models:A Survey of Design Principles and Architectures}, 
+      author={Yutong Gao and Qinglin Meng and Yuan Zhou and Liangming Pan},
+      year={2026},
+      eprint={2604.16042},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.16042}, 
 }
