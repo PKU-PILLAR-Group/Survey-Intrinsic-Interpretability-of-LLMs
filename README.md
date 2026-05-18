@@ -16,6 +16,7 @@
 
 
 ## 🗓️ Release
+- [2026/05/18] 🗣️ Our paper is selected as an **Oral Presentation** at ACL 2026.
 - [2026/4/7] 🎉 This paper is accepted by ACL 2026 main conference.
 - [2026/1/16] 🎉 We launch the [paper list](https://github.com/gao-1/Towards-Intrinsic-Interpretability-of-Large-Language-Models) of this survey.
 ---
