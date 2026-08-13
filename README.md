@@ -93,6 +93,7 @@ To help navigate the paper list, we organize studies around the **Five Core Desi
 | **Label-Free Concept Bottleneck Models** | ICLR | 2023 | [Link](https://openreview.net/forum?id=9YpbmkPmuT) |
 | **Concept Embedding Models (CEMs / IntCEMs)** | NeurIPS | 2022 | [Link](https://proceedings.neurips.cc/paper_files/paper/2022/file/867c06823281e506e8059f5c13a57f75-Paper-Conference.pdf) |
 | **Codebook Features: Sparse and Discrete Interpretability for Neural Networks** | ICML | 2024 | [Link](https://openreview.net/forum?id=LfhG5znxzR) |
+| **Sparse Concept Anchoring for Interpretable and Controllable Neural Representations (SCA)** | GRaM | 2026 | [Link](https://proceedings.mlr.press/v326/fraser26a.html) |
 
 ### 3. Representational Decomposability
 
@@ -138,6 +139,8 @@ To help navigate the paper list, we organize studies around the **Five Core Desi
 | :--- | :---: | :---: | :---: |
 | **Weight-Sparse Transformers Have Interpretable Circuits** | ArXiv | 2025 | [Link](https://arxiv.org/abs/2511.13653) |
 | **Language Modeling with Gated Convolutional Networks (GLUs)** | ICML | 2017 | [Link](https://arxiv.org/abs/1612.08083) |
+| **Gradient Routing: Masking Gradients to Localize Computation in Neural Networks** | ArXiv | 2024 | [Link](https://arxiv.org/abs/2410.04332) |
+| **Beyond Data Filtering: Knowledge Localization for Capability Removal in LLMs (SGTM)** | ArXiv | 2025 | [Link](https://arxiv.org/abs/2512.05648) |
 
 ## 🌟 Reference
 
